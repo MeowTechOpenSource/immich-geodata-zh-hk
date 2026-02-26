@@ -1,12 +1,5 @@
-# Immich 反向地理編碼 - 臺灣特化  
+# Immich 反向地理編碼 -  針對香港優化
 
-> [!IMPORTANT]
-> - 升級提醒：若您已部署本專案且媒體庫含有日本、南韓地區照片，請在更新至 v2.2.0 後執行「[重新擷取照片中繼資料](#整合式部署推薦方便後續更新)」，以套用最新的日本資料。
-> - 從 v2.2.0 起每個 release 都會附帶 `update_data.sh`，建議改用 release 內的腳本路徑以確保和釋出的資料一致；儘管倉庫內仍保留同名檔案，但以 release 版本為主。
-
-[繁體中文](README.md) | [English](README.en.md)
-
-本專案為 Immich 提供專為臺灣使用者設計的反向地理編碼優化，根據使用者習慣提供自然且準確的地理資訊顯示。
 
 Forked From: https://github.com/RxChi1d/immich-geodata-zh-tw
 
