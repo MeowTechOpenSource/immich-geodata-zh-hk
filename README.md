@@ -181,7 +181,7 @@ Forked From: https://github.com/RxChi1d/immich-geodata-zh-tw
 ### 🇹🇼 臺灣地區優化
 
 - **官方圖資為核心**：使用 NLSC 村(里)界圖資，確保資料權威性
-- **優化國家與行政區名稱**：解決 Immich 原生資料中「臺灣」顯示為「中國臺灣省」且缺失多數縣市名稱的問題
+- **優化國家與行政區名稱**：解決 Immich 原生資料中「臺灣」缺失多數縣市名稱的問題
 - **行政區層級優化**：優化 Admin1（直轄市/省轄縣市）與 cities500（地名資料）
 
 > 📖 詳細的臺灣資料處理邏輯請參閱 [臺灣行政區處理文檔](docs/zh-tw/taiwan-admin-processing.md)
