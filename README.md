@@ -8,7 +8,7 @@
 
 本專案為 Immich 提供專為臺灣使用者設計的反向地理編碼優化，根據使用者習慣提供自然且準確的地理資訊顯示。
 
-目前支援：🇹🇼 **臺灣** | 🇯🇵 **日本** | 🇰🇷 **南韓** | 🌏 **其他地區中文化**
+Forked From: https://github.com/RxChi1d/immich-geodata-zh-tw
 
 ## 設計理念
 
